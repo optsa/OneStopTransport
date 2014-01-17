@@ -1,0 +1,3 @@
+opentripplannerURL=http://localhost:8888/opentripplanner-api-webapp/ws/plan?
+routersURL=http://localhost:8888/opentripplanner-api-webapp/ws/routers/
+gtfsPath=/otp/GTFS.zip
